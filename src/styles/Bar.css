@@ -1,0 +1,10 @@
+.bar {
+    background-color: #5089C6;
+    text-align: center;
+    color: white;
+    flex: 1;
+}
+
+.placeholder {
+    font-size: 16px;
+}

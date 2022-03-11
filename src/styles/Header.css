@@ -1,0 +1,38 @@
+header {
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #334257;
+    color: white;
+}
+
+nav {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.adjuster {
+    flex: 1;
+}
+
+.title {
+    flex: 1;
+}
+
+.title h3 {
+    text-align: center;
+}
+
+.algorithms {
+    display: flex;
+    justify-content: space-around;
+    flex: 1;
+}
+
+.selected {
+    color: #DA0037;
+}
